@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.questionPrompt {
+    font-family: 'Courier';
+    color: lime;
+}
+
+.toDoInput {
+    font-family: 'Courier';
+    border: none;
+    background-color: black;
+    color: transparent;
+    text-shadow: 0 0 0 lime;
+    caret-color: lime;
+}
+
+*:focus {
+    outline:none;
+}
