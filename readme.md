@@ -10,12 +10,14 @@ View it [here](https://MasonFraley.github.io/todo)
 
 <br>
 
-<image src= "pics/Image%2010-25-22%20at%208.46%20PM.jpg">
+<image src= "pics/Image%2011-8-22%20at%201.17%20PM.jpg">
 
 ## Summary
 
-My second project using primarily Javascript and formatted with HTML and CSS, and my first one that is in any way interactive for the user.
+My third project using primarily Javascript and formatted with HTML and CSS, and my second one that is in any way interactive for the user.
 
-It was good practice with fundamentals like adding event listeners, passing variables, and using conditional statements and logical operators within functions.
+This project was heavier on the use of JS methods than what I've done before, so it was a steep learning curve but I'm happy with what came out- simple AND functional.
 
-The javascript went through a number of different iterations while I was not only building the program, but then also refining and condensing the code to make it "cleaner", more efficient, and less buggy. More challenging than I expected but I'm proud of the work.
+Similair to my rock-paper-scissors app, the javascript went through a few dramatic overhauls while I was deciding how to approach the problem. Again, definitely a little more challenging than I expected but absolutely experience worth having.
+
+I went which a Matrix-esque aesthetic because I had watched that the other day before finishing the project. :)

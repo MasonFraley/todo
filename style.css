@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    margin-top: 20px;
 }
 
 #questionPrompt {
@@ -14,6 +15,7 @@ body {
     color: transparent;
     text-shadow: 0 0 0 lime;
     caret-color: lime;
+    outline:none;
 }
 
 #label {
