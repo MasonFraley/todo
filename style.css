@@ -2,12 +2,12 @@ body {
     background-color: black;
 }
 
-.questionPrompt {
+#questionPrompt {
     font-family: 'Courier';
     color: lime;
 }
 
-.toDoInput {
+#toDoInput {
     font-family: 'Courier';
     border: none;
     background-color: black;
@@ -16,6 +16,20 @@ body {
     caret-color: lime;
 }
 
-*:focus {
-    outline:none;
+#label {
+    font-family: 'Courier';
+    color: lime;
+}
+
+#postBoard {
+    font-family: 'Courier';
+    color: lime;
+    list-style: none;
+}
+
+button, #addButton {
+    font-family: 'Courier';
+    border: solid lime; 
+    background-color: black;
+    color: lime;
 }

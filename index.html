@@ -8,10 +8,16 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <form>
-        <div class="questionPrompt"><b>>What do you need to do today?</b></div> 
-        <input type="text" class="toDoInput" placeholder="Type Here" autofocus>
+    <form id="form">
+        <div id="questionPrompt"><b>>What do you need to do today?</b></div> 
+        <label for="toDoInput" id="label">></label>
+        <input type="text" id="toDoInput" placeholder="Type Here">
+        <input id="addButton" type="submit" value="add"> 
     </form>
+    <br>
+    <div id = "postBoard">
+        <ul class = "item"></ul>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
